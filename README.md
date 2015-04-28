@@ -29,3 +29,5 @@ $ curl -sv http://<ip>:<port>/ami/alpha/sa-east-1
   "hvm": "ami-033ebb1e"
 }
 ```
+
+Usage is `http://<host>:<port>/ami/<channel>/<region>
