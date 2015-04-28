@@ -30,4 +30,4 @@ $ curl -sv http://<ip>:<port>/ami/alpha/sa-east-1
 }
 ```
 
-Usage is `http://<host>:<port>/ami/<channel>/<region>
+Usage is `http://<host>:<port>/ami/<channel>/<region>`
